@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 30/12/2014 05:39:39 p.m..
+     1>Proyecto "C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\GBanco\GBanco.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Administradores.cpp Clientes.cpp Cuentas.cpp Main.cpp MenuAdministrador.cpp MenuCliente.cpp
+         MenuCliente.cpp
+         MenuAdministrador.cpp
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(28): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(60): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+         Main.cpp
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(28): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(60): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+         Cuentas.cpp
+         Clientes.cpp
+         Administradores.cpp
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(28): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\hs13\documents\visual studio 2013\projects\gbanco\gbanco\administradores.cpp(60): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\Debug\GBanco.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\Debug\GBanco.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\Debug\GBanco.lib" /MACHINE:X86 Debug\Administradores.obj
+         Debug\Clientes.obj
+         Debug\Cuentas.obj
+         Debug\Main.obj
+         Debug\MenuAdministrador.obj
+         Debug\MenuCliente.obj
+         GBanco.vcxproj -> C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\Debug\GBanco.exe
+     1>Compilación del proyecto terminada "C:\Users\HS13\Documents\Visual Studio 2013\Projects\GBanco\GBanco\GBanco.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.46

@@ -1,0 +1,1 @@
+numeroCuenta|tipoCuenta|monto|clienteid

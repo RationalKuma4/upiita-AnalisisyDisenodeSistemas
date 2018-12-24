@@ -1,0 +1,3 @@
+No Cuenta | ClienteId | Tipo Cuenta | Monto 
+17240|29040|debito|1526.210000
+5078|13771|debito|520.200000

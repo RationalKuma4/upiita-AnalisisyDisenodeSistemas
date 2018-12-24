@@ -1,0 +1,6 @@
+Cliente| Nombre | Usuario | Password
+13771|pap pap pap|pl|pl
+5065|sa sa sa|sa|sa
+14057|re re re|re|re
+29040|ra ra ra|ra|ra
+114|ki ki ki|ki|ki
